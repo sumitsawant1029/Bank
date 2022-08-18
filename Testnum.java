@@ -1,7 +1,7 @@
 // Name :- Sumit Sawant 
 // Date :- 8/8/2022
 import java.util.Scanner;
-
+// Scanner Funtion To Take Inputs From user
 public class Testnum{
     public static void main(String args[]){
         //factorial(): To Find Factorial of any Number
