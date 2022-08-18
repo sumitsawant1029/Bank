@@ -11,7 +11,7 @@ public class Testnum{
         // fibo()    : To Check If the Number is in fibonacci Series
         Scanner obj=new Scanner(System.in);
         int e=1;
-
+    // Made An Scanner Funtion To take input
         System.out.print("Enter an Number : ");
         int i = obj.nextInt();
         
