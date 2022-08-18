@@ -20,7 +20,7 @@ public class bank{
         int f= obj.nextInt(); 
         switch(f){
             case 1 :
-                // For Creating New Account 
+                // For Creating New Accounts
                      System.out.println("************************************************");
                     String a = obj.nextLine();
                     System.out.println("Enter Your Name :");
